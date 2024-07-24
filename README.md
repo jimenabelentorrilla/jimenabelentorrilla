@@ -5,7 +5,7 @@ Frontend developer
 ------------------
 
 * 🌍  I'm based in Buenos Aires, Argentina.
-* 🖥️  See my portfolio at [My Portfolio](http://https://jimena-belen-torrilla-frontend-dev.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://jimena-belen-torrilla-frontend-dev.netlify.app/)
 * 🧠  I'm learning Node.js and Express
 
 ### Skills
